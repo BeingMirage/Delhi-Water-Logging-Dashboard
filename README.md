@@ -2,7 +2,10 @@
 
 **Built for HACK4DELHI Hackathon**
 **Team StuffCoders**
-Members`Amey Ghatol, Simar Ahluwalia, Shaivy Ahluwalia`
+Members
+  `Amey Ghatol` 
+  `Simar Ahluwalia`
+  `Shaivy Ahluwalia`
 
 ## 🌊 Overview
 The **Urban Water-Logging Dashboard** is a comprehensive, data-driven solution designed to predict, visualize, and manage urban flood risks in Delhi. Built specifically for the **HACK4DELHI** hackathon, this tool empowers city administrators and urban planners with real-time insights into ward-level preparedness against heavy rainfall.
